@@ -1152,3 +1152,354 @@ er","name":"shem"}
 [2026-02-16 19:20:32] API Call: /food_ordering/api/data.php?type=riders Session: {"user_id":"1","role":"admin","name":"Admin User"}
 [2026-02-16 19:20:32] API Call: /food_ordering/api/data.php?type=orders Session: {"user_id":"1","role":"admin","name":"Admin User"}
 [2026-02-16 19:20:39] API Call: /food_ordering/api/data.php?type=order_items&order_id=9 Session: {"user_id":"1","role":"admin","name":"Admin User"}
+[2026-02-19 22:32:08] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 22:33:53] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771536833698 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:33:53] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:34:08] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:34:12] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771536852823 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:34:52] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:34:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:34:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:35:08] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771536908354 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:35:11] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:35:17] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771536917223 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 22:35:23] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:05:31] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:05:31] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:05:54] API Call: /foodOderingRepo/api/data.php?type=order_items&order_id=1 Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:06:05] API Call: /foodOderingRepo/api/data.php?type=order_items&order_id=5 Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:06:28] API Call: /foodOderingRepo/api/data.php?type=sales_report Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:06:35] API Call: /foodOderingRepo/api/data.php?type=users Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:06:50] API Call: /foodOderingRepo/api/data.php?type=delete_user Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:06:52] API Call: /foodOderingRepo/api/data.php?type=users Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:06:52] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:02] API Call: /foodOderingRepo/api/data.php?type=delete_user Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:10] API Call: /foodOderingRepo/api/data.php?type=delete_user Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:31] API Call: /foodOderingRepo/api/data.php?type=products Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:39] API Call: /foodOderingRepo/api/data.php?type=products Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:50] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:07:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:10:40] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:10:58] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:10:58] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:03] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:09] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:18] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:23] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:28] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:33] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:39] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:43] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:11:50] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:14:22] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:14:22] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771539262467 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:14:43] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:14:45] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:14:46] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:14:52] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:15:06] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:15:06] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:15:29] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:15:31] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:15:42] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:16:40] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:16:40] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:16:51] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:16:54] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:16:59] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:17:15] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:15] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:20] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:25] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:30] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:37] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:41] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+Mkilwa"}
+[2026-02-19 23:17:41] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:46] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:17:53] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:18:04] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:18:06] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:18:20] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:18:31] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:18:31] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771539511221 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:18:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:18:51] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:18:56] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-19 23:19:04] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:19:16] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:19:16] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:19:21] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:19:26] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-19 23:19:26] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-19 23:19:50] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:19:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-19 23:20:00] API Call: /foodOderingRepo/api/data.php?type=order_items&order_id=5 Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:08:18] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:08:57] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771564137720 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:08:57] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:10] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:15] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771564155379 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:33] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:37] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:38] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:39] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:39] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:09:52] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:10:02] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:10:02] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:10:12] API Call: /foodOderingRepo/api/data.php?type=order_items&order_id=8 Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:10:30] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:10:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:10:40] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:10:51] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:10:51] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:10:56] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:02] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:06] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:10] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:11] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:13] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:16] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:21] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:26] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:31] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:11:34] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:11:42] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771564302941 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:11:42] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:11:45] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:12:02] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:12:05] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:12:10] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:12:30] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:12:30] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:23:20] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:23:32] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771565012559 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:23:32] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:23:39] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771565019213 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:23:41] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:23:44] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771565022523 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:27:06] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:27:11] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771565231744 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:27:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:27:26] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771565246443 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:28:09] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:28:14] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:28:14] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:28:21] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771565301411 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:28:41] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:42:56] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+me":"bam msafiri"}
+[2026-02-20 06:43:01] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:45:36] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771566336767 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:45:36] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:46:09] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:46:58] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771566417983 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:47:18] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:47:22] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:47:33] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:47:33] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:47:46] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:47:54] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771566474637 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:47:54] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:47:59] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:48:08] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:48:08] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:48:13] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:48:15] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:48:18] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:48:26] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771566506678 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:48:26] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:48:33] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:48:36] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771566516316 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 06:50:41] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:50:53] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:50:53] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:52:38] API Call: /foodOderingRepo/api/data.php?type=sales_report Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:53:25] API Call: /foodOderingRepo/api/data.php?type=users Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 06:58:24] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 06:58:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:58:35] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:58:40] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:58:47] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:58:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:58:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:00] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:05] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:10] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:15] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:20] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:25] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:30] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:40] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:44] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:46] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:48] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:48] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 06:59:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:00] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:05] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:10] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:15] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:20] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:25] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:30] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:40] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:45] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:00:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:00] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:05] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:10] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:15] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:20] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:25] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:30] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:33] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+Mkilwa"}
+[2026-02-20 07:01:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:40] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:45] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:50] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:01:58] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:02:08] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771567328639 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:08] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:10] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:14] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771567334128 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:22] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:24] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:25] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:02:28] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:02:35] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:02:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:02:40] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:02:42] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:02:43] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:02:44] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:02:50] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:03:06] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771567386207 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:03:06] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:03:08] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:03:15] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:03:24] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:24] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:31] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:40] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:40] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:43] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:43] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:44] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:49] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:03:53] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:04:11] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771567451872 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:04:11] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:04:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:04:41] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:04:43] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:04:47] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:04:57] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:04:57] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:02] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:07] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:12] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:18] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:23] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:28] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:38] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:43] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:48] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:54] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:05:58] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:06:03] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:06:08] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:06:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:07:05] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:08:05] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:08:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:08:57] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:08:58] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:23:07] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:07] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771568587101 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:17] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771568597789 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:33] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:35] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:23:39] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:23:56] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:23:56] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:24:07] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:24:10] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:24:13] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:24:29] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:29] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:32] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:37] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:45] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:45] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:48] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:48] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:48] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:52] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:24:54] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:25:06] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771568706874 Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:25:06] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:25:11] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:25:15] API Call: /foodOderingRepo/api/data.php?type=update_order Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:25:18] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":8,"role":"customer","name":"bam msafiri"}
+[2026-02-20 07:25:22] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:25:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:25:34] API Call: /foodOderingRepo/api/data.php?type=delivery_report Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:25:39] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:25:44] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:25:49] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:25:54] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:25:59] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:04] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:09] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:15] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:20] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:24] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:29] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:39] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:45] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:49] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:26:55] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:00] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:04] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:09] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:14] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:19] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:24] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:29] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:34] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:39] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":6,"role":"rider","name":"Twaha Mkilwa"}
+[2026-02-20 07:27:41] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:35:27] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:39:46] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771569586468 Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:39:46] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:40:38] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:40:42] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:40:42] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:41:07] API Call: /foodOderingRepo/api/data.php?type=products Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:41:25] API Call: /foodOderingRepo/api/data.php?type=products&_t=1771569685074 Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:41:25] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":11,"role":"customer","name":"sylver"}
+[2026-02-20 07:41:36] API Call: /foodOderingRepo/api/data.php?type=products Session: []
+[2026-02-20 07:42:12] API Call: /foodOderingRepo/api/data.php?type=riders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:42:13] API Call: /foodOderingRepo/api/data.php?type=orders Session: {"user_id":9,"role":"admin","name":"Admin"}
+[2026-02-20 07:45:13] API Call: /foodOderingRepo/api/data.php?type=sales_report Session: {"user_id":9,"role":"admin","name":"Admin"}
